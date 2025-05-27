@@ -1,0 +1,15 @@
+C:\Users\AliBar\Documents\Training\FizzBUzz\bin\Debug\net8.0\FizzBUzz.exe
+C:\Users\AliBar\Documents\Training\FizzBUzz\bin\Debug\net8.0\FizzBUzz.deps.json
+C:\Users\AliBar\Documents\Training\FizzBUzz\bin\Debug\net8.0\FizzBUzz.runtimeconfig.json
+C:\Users\AliBar\Documents\Training\FizzBUzz\bin\Debug\net8.0\FizzBUzz.dll
+C:\Users\AliBar\Documents\Training\FizzBUzz\bin\Debug\net8.0\FizzBUzz.pdb
+C:\Users\AliBar\Documents\Training\FizzBUzz\obj\Debug\net8.0\FizzBUzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AliBar\Documents\Training\FizzBUzz\obj\Debug\net8.0\FizzBUzz.AssemblyInfoInputs.cache
+C:\Users\AliBar\Documents\Training\FizzBUzz\obj\Debug\net8.0\FizzBUzz.AssemblyInfo.cs
+C:\Users\AliBar\Documents\Training\FizzBUzz\obj\Debug\net8.0\FizzBUzz.csproj.CoreCompileInputs.cache
+C:\Users\AliBar\Documents\Training\FizzBUzz\obj\Debug\net8.0\FizzBUzz.sourcelink.json
+C:\Users\AliBar\Documents\Training\FizzBUzz\obj\Debug\net8.0\FizzBUzz.dll
+C:\Users\AliBar\Documents\Training\FizzBUzz\obj\Debug\net8.0\refint\FizzBUzz.dll
+C:\Users\AliBar\Documents\Training\FizzBUzz\obj\Debug\net8.0\FizzBUzz.pdb
+C:\Users\AliBar\Documents\Training\FizzBUzz\obj\Debug\net8.0\FizzBUzz.genruntimeconfig.cache
+C:\Users\AliBar\Documents\Training\FizzBUzz\obj\Debug\net8.0\ref\FizzBUzz.dll
