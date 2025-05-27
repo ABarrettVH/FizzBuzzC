@@ -1,16 +1,19 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Threading.Tasks.Dataflow;
 
-for (var counter = 1; counter < 301; counter++)
+Console.WriteLine("Enter a maximum number: ");
+int maxNum = Convert.ToInt16(Console.ReadLine());
+
+for (var counter = 1; counter < maxNum+1; counter++)
 {
-    List<string> output = new List<string> {};
+    List<string> output = new List<string> { };
 
     if (counter % 11 == 0)
     {
         if (counter % 13 == 0)
         {
             output.Add("Fezz");
-            output.Add("Bong"); 
+            output.Add("Bong");
 
         }
         else
@@ -88,7 +91,7 @@ for (var counter = 1; counter < 301; counter++)
         else if (counter % 5 == 0 && counter % 7 == 0)
         {
             output.Add("Buzz");
-           output.Add("Bang");
+            output.Add("Bang");
         }
 
         else if (counter % 3 == 0)
@@ -97,7 +100,7 @@ for (var counter = 1; counter < 301; counter++)
         }
         else if (counter % 5 == 0)
         {
-           output.Add("Buzz");
+            output.Add("Buzz");
         }
         else if (counter % 7 == 0)
         {
@@ -118,7 +121,7 @@ for (var counter = 1; counter < 301; counter++)
     {
         Console.WriteLine(string.Join("", output));
     }
-    
+
 
 }
 
